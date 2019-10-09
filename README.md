@@ -5,7 +5,7 @@ If you'd like to know more about it, I invite to you to watch the YouTube presen
 
 https://youtu.be/QputlZwwlNM
 
-### Project statistics
+## Project statistics
 
 **Work time**: 2 months
 
