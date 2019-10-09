@@ -1,5 +1,5 @@
 # mtgring-client
-My attempt to create online Magic The Gathering game.
+My attempt to create the online Magic The Gathering game.
 
 If you'd like to know more about it, I invite to you to watch the YouTube presentation:
 
