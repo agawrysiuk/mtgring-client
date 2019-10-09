@@ -1,0 +1,15 @@
+# Android Studio/IDEA
+*.iml
+.idea
+
+# External libraries
+imgscalr-lib-4.2.jar
+jfxtras-labs-9.0-r1.jar
+json-20180813.jar
+jsoup-1.12.1.jar
+
+# Background Image
+background-top.jpg
+
+# IntelliJ out directory
+out/*
