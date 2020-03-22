@@ -1,29 +1,8 @@
 # mtgring-client
 My attempt to create the online Magic The Gathering game.
 
-If you'd like to know more about it, I invite to you to watch the YouTube presentation:
+```diff
+- It's an old version of my project. For the updated one (which is less of a coding mess) please visit:
+```
 
-https://youtu.be/QputlZwwlNM
-
-## Project statistics
-
-**Work time**: 2 months
-
-**Lines of code**: 6,300
-
-**External libraries used**:
-- javafx
-- json
-- jsoup
-- imgscalr
-
-**Client-side and server-side**
-
-**Universal card import for the future sets**
-
-**With its own card database**
-
-Additional information: all trademarks, MTG Arena software and images are the property of Wizards of the Coast LLC or its parent Company, Hasbro, Inc. Thus, I left out the server version of this application and will not add it, as I don't want to distribute it.
-
-It's only an example of my 2-month work. I hope you enjoyed the video linked above :)
-
+ https://github.com/agawrysiuk/the-ring-2.0
